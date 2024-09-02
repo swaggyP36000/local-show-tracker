@@ -1,10 +1,10 @@
 # local-show-tracker
 [Theory] A python-made GUI that helps you locally keep track of your watch progress on TV shows that are terribly mapped by TraktTV, or other tracking services.
 
-**THIS SCRIPT IS THE PRODUCT OF MULTIPLE LLM'S**
+**THIS SCRIPT IS THE PRODUCT OF MULTIPLE LLM'S**<br/><br/>
 While it is not malicious (you can view the code yourself before you choose to run it), it is buggy, and I take no responsibility for that. This is a baseline, at best. At worst, a pleasant disaster :)
 
-This will create a file called "show_data.json" with the following format: <br/><br/>
+This will create a file called "show_data.json" with the following format: 
 ```
 {
     "Show Title Here": {
