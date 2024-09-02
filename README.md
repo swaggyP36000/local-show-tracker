@@ -32,3 +32,7 @@ If you cloned this repo to your home directory, the command would be:
 
 Then, run the script:
 `python3 show_tracker.py`
+
+## Screenshots
+![SS1](https://github.com/user-attachments/assets/969a1766-69f1-4ebf-afe2-392d6b226d7a)
+![SS2](https://github.com/user-attachments/assets/9db00916-2e14-4d2c-9c78-6dead02773ef)
