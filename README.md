@@ -7,11 +7,11 @@ While it is not malicious (you can view the code yourself before you choose to r
 This will create a file called "show_data.json" with the following format: <br/><br/>
 ```
 {
-    "**Show Title Here**": {
-        "description": "**Description here**",
+    "Show Title Here": {
+        "description": "Description here",
         "season": 1,
         "episode": 1,
-        "cover_image": "**Path to cover image here**"
+        "cover_image": "Path to cover image here"
     }
 }
 ```
