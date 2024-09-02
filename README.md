@@ -4,6 +4,16 @@
 **THIS SCRIPT IS THE PRODUCT OF MULTIPLE LLM'S**
 While it is not malicious (you can view the code yourself before you choose to run it), it is buggy, and I take no responsibility for that. This is a baseline, at best. At worst, a pleasant disaster :)
 
+This will create a file called "show_data.json" with the following format:
+{
+    "**Show Title Here**": {
+        "description": "**Description here**",
+        "season": 1,
+        "episode": 1,
+        "cover_image": "**Path to cover image here**"
+    }
+}
+
 *If you happen to stumble into this and want to make changes, create an issue. If I add the change, I will credit your GitHub profile in the updated code.*
 
 ## Requirements
