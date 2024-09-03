@@ -67,8 +67,6 @@ class ShowTracker:
 
         # Show Treeview with cover images
         self.tree = ttk.Treeview(self.master, columns=("Title",), show="tree", selectmode='browse', style="Treeview")
-        self.tree.heading("#0", text="Cover")
-        self.tree.heading("Title", text="Title")
         self.tree.column("#0", width=100)
         self.tree.column("Title", width=200)
         self.tree.grid(row=1, column=0, rowspan=5, columnspan=3, padx=10, pady=10)
