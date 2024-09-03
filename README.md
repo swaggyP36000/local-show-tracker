@@ -34,5 +34,5 @@ Then, run the script:
 `python3 show_tracker.py`
 
 ## Screenshots
-![SS1](https://github.com/user-attachments/assets/969a1766-69f1-4ebf-afe2-392d6b226d7a)
-![SS2](https://github.com/user-attachments/assets/9db00916-2e14-4d2c-9c78-6dead02773ef)
+![SS1](https://github.com/user-attachments/assets/c50b745b-ca85-4073-880b-f316100ae589)
+![SS2](https://github.com/user-attachments/assets/001825ba-7ae0-468b-8b57-a77f9fe4bbde)
