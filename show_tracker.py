@@ -64,6 +64,8 @@ class ShowTracker:
         # Configure Treeview style
         style = ttk.Style()
         style.configure("Treeview", rowheight=60)  # Set the row height to be higher
+        style.configure("Treeview", background=self.bg_color, fieldbackground=self.bg_color, foreground=self.fg_color, borderwidth=0)  # Set background and text color, remove border
+        style.layout("Treeview", [('Treeview.treearea', {'sticky': 'nswe'})])  # Remove borders
 
         # Show Treeview with cover images
         self.tree = ttk.Treeview(self.master, columns=("Title",), show="tree", selectmode='browse', style="Treeview")
