@@ -1,6 +1,8 @@
 # local-show-tracker
 [Theory] A python-made GUI that helps you locally keep track of your watch progress on TV shows that are terribly mapped by TraktTV, or other tracking services.
 
+What does the Refresh button do? Your guess is as good as mine...
+
 **THIS SCRIPT IS THE PRODUCT OF MULTIPLE LLM'S**<br/><br/>
 While it is not malicious (you can view the code yourself before you choose to run it), it is buggy, and I take no responsibility for that. This is a baseline, at best. At worst, a pleasant disaster :)
 
