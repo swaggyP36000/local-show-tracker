@@ -21,7 +21,7 @@ This will create a file called "show_data.json" with the following format:
 *If you happen to stumble into this and want to make changes, create an issue. If I add the change, I will credit your GitHub profile in the updated code.*
 
 ## Requirements
-- **A Linux system.** All of my testing is on an Arch-based system. I have no intention of testing this, or fixing it for, other operating systems. If it crashes and burns on Windows, then that is your homework to get it up and running.
+- **A Linux system.** (For Windows users, WSL *might* work.) All of my testing is on an Arch-based system. I have no intention of testing this, or fixing it for, other operating systems. If it crashes and burns on Windows, then that is your homework to get it up and running.
 - kdialog - for the file picker so you can add cover images for your shows. You are free to change this to whatever file picker you have on your system, or just not use cover images at all
 
 In theory, everything else should be available on most common Linux distros, if not, you will get an error that tells you what exactly you are missing.
